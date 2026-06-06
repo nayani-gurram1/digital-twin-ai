@@ -45,13 +45,21 @@ It predicts what a user is likely to do next (study, sleep, scroll, exercise) ba
 ## 📂 Project Structure
 
 digital-twin-ai/
+
 │
+
 ├── models/
+
 │ ├── rf_model.pkl
+
 │ └── features.pkl
+
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 └── README.md
 
 ---
